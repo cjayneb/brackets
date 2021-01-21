@@ -38,6 +38,7 @@ body {
 img{
     width: 200px;
     height: 200px;
+    display: block;
     border: 4px dashed red;
     margin: 0;
 }
