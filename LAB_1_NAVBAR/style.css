@@ -39,9 +39,11 @@ img{
     width: 200px;
     height: 200px;
     border-bottom: 4px dashed red;
+    margin: 0;
 }
 
 .features{
     border-style: dashed;
     border-color: red;
+    border-bottom: 0px;
 }
