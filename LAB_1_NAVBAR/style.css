@@ -38,6 +38,7 @@ body {
 img{
     width: 200px;
     height: 200px;
+    border-bottom: 2px dashed red;
 }
 
 .features{
