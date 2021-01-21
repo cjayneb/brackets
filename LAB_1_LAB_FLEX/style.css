@@ -29,8 +29,13 @@ body {
 img{
     width: 200px;
     height: 200px;
+    border: 2px;
+    border-color: red;
+    border-style: dashed;
 }
 
 .features{
-
+  min-width: 100vh;
+  display: flex;
+  justify-content: space-evenly;
 }
