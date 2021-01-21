@@ -13,12 +13,12 @@ body {
   height: 50px;
   background: #3a3633;
   color: #fff;
-  position: sticky;
 
 }
 
 #navbar {
   position: sticky;
+  top: 0;
 }
 
 
