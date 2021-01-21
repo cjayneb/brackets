@@ -32,6 +32,7 @@ img{
     border: 2px;
     border-color: red;
     border-style: dashed;
+    margin: 25px;
 }
 
 .features{
