@@ -16,6 +16,9 @@ body {
 
 }
 
+#navbar {
+    position: sticky;
+}
 
 
 .center-content {
